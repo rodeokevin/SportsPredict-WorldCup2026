@@ -1,0 +1,17 @@
+[
+  {
+    "home_team": "Argentina",
+    "away_team": "France",
+    "home_win": 0.42,
+    "away_win": 0.28,
+    "draw": 0.30,
+    "btts_yes": 0.55,
+    "totals": {
+      "2.5": 0.52
+    },
+    "team_totals": {
+      "Argentina": { "1.5": 0.48 },
+      "France": { "0.5": 0.62 }
+    }
+  }
+]
